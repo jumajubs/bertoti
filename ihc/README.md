@@ -9,6 +9,8 @@ Forneça alternativas de texto para qualquer conteúdo que não seja de texto pa
 [Site amazon]()- atribulto alt que descreve o conteúdo das imagens.
 ![site amazon](https://github.com/jumajubs/bertoti/blob/main/img/turma%20da%20monica.png)
 
+
+
 ## 1.1.1
 Conteúdo não textual-Nível A-Todo o conteúdo não textual que é apresentado ao usuário possui uma alternativa de texto que serve a finalidade equivalente, exceto nas situações listadas abaixo.
 
@@ -39,6 +41,16 @@ Twitter mobile
 
 ![Twitter-desktop](https://github.com/jumajubs/bertoti/blob/main/img/imagem_2022-06-07_162033563.png)
 Twitter no desktop
+
+## Contra exemplo de Adaptável:
+
+![Siga](https://github.com/jumajubs/bertoti/blob/main/img/WhatsApp%20Image%202022-06-07%20at%2016.36.50.jpeg)
+
+SIGA mobile, sem boa responsividade.
+
+![Siga](https://github.com/jumajubs/bertoti/blob/main/img/WhatsApp%20Image%202022-06-07%20at%2016.36.50%20(1).jpeg)
+
+SIGA mobile, os campos ficam muito pequenos.
 
 ## Diretriz 2.3 
 Convulsões e Reações Físicas
