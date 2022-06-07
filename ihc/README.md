@@ -30,6 +30,16 @@ A interpretação da linguagem de sinais é fornecida para todo o conteúdo de �
 [Site Inep](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem)
 ![site Enem](https://github.com/jumajubs/bertoti/blob/main/img/enem-inep.png)
 
+## 1.3 Adaptável
+
+Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
+
+![Twitter-mobile](https://github.com/jumajubs/bertoti/blob/main/img/WhatsApp%20Image%202022-06-07%20at%2016.17.16%20(1).jpeg)
+Twitter mobile
+
+![Twitter-desktop](https://github.com/jumajubs/bertoti/blob/main/img/imagem_2022-06-07_162033563.png)
+Twitter no desktop
+
 ## Diretriz 2.3 
 Convulsões e Reações Físicas
 Não crie conteúdo de uma forma conhecida por causar convulsões ou reações físicas.
